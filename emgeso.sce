@@ -33,3 +33,6 @@ xlabel('Temps[milisec]')
 ylabel('Tension[V]')
 title('EMG moyenne glissante')
 
+// Trace passage !
+// Note : on m'a dit que pour la RMS, il fallait essayer de la faire glissante : comme pour la moyenne glissante, de "décaler" de un sur le côté.
+// Ca donnerait plus de points !
